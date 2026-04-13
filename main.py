@@ -1,3 +1,4 @@
+print('hello my guest')
 from datetime import datetime
 
 now = datetime.now()
